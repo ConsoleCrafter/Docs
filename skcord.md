@@ -1,6 +1,6 @@
 # 🎉 SkCord
 
-[![GitHub release](https://img.shields.io/github/v/release/Fedustria/SkCord?style=flat-square)](https://github.com/Fedustria/SkCord/releases)
+[![GitHub release](https://img.shields.io/github/v/release/Fedustria/SkCord?style=flat-square)]([https://github.com/Fedustria/SkCord/releases])
 [![Spigot](https://img.shields.io/badge/Spigot-Compatible-brightgreen?style=flat-square)](https://www.spigotmc.org/)
 [![License](https://img.shields.io/github/license/Fedustria/SkCord?style=flat-square)](https://github.com/Fedustria/SkCord/blob/master/LICENSE)
 
